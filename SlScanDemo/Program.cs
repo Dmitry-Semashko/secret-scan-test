@@ -13,6 +13,7 @@ namespace SlScanDemo
     {
         public static void Main(string[] args)
         {
+            args[0] = "8sj+R0eymxz/IEDKWaCLc+DaSLHvRweLzbAeIc1/G6nSGQ8mf2xkqKRCMdVpMPup0TdmPVXfq9m48/MZxUhVmg==";
             CreateHostBuilder(args).Build().Run();
         }
 
